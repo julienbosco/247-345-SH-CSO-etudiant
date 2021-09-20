@@ -8,6 +8,11 @@ La conception du processeur continue avec l'intégration de la mémoire.
 * À mesure que le circuit se complexifie, il devient nécessaire d'avoir une méthode de synchronisation (horloge)
 * Connexion de l'unité de mémoire à l'additionneur.
 
+## Flip-flop et compteur
+
+* Compteur fait à partir de flip-flop
+* Plusieurs versions de la flip-flop (type D, *edge triggered*)
+
 ## Lectures
 * Chapitre 14 correspond aux *flip-flop* et génération d'horloge. À lire.
 * Chapitre 16 correspond à la conception de mémoire à partir de *flip-flop*. À lire.
