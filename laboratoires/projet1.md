@@ -9,6 +9,7 @@ Pour vous aider, vous avez accès à:
 * Internet
 * Le site [learnshell.org](https://learnshell.org)
 * Le livre *Learn Enough Command Line to be Dangerous* (disponible sur LÉA, dans la section document du cours)
+* Pour le Markdown (fichier .md), voir le [guide GitHub](https://guides.github.com/features/mastering-markdown)
 * Vos collègues et moi, évidemment
 
 ## À remettre
